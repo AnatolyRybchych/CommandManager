@@ -1,0 +1,12 @@
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\bin\Debug\net6.0\CommandManager.deps.json
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\bin\Debug\net6.0\CommandManager.dll
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\bin\Debug\net6.0\CommandManager.pdb
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\obj\Debug\net6.0\CommandManager.csproj.AssemblyReference.cache
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\obj\Debug\net6.0\CommandManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\obj\Debug\net6.0\CommandManager.AssemblyInfoInputs.cache
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\obj\Debug\net6.0\CommandManager.AssemblyInfo.cs
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\obj\Debug\net6.0\CommandManager.csproj.CoreCompileInputs.cache
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\obj\Debug\net6.0\CommandManager.dll
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\obj\Debug\net6.0\refint\CommandManager.dll
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\obj\Debug\net6.0\CommandManager.pdb
+C:\Users\Velichaisyi\Desktop\CommandManager\CommandManager\obj\Debug\net6.0\ref\CommandManager.dll

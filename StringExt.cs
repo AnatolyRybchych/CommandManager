@@ -2,7 +2,7 @@
 
 namespace CommandManager
 {
-    internal static class StringExt
+    public static class StringExt
     {
 
         public static string Times(this string str, int times)

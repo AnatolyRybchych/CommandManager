@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal abstract class TypedCommandArgument<T> : CommandArgument
+    public abstract class TypedCommandArgument<T> : CommandArgument
     {
         public TypedCommandArgument(bool required, string name) : base(required, name)
         {

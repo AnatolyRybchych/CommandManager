@@ -2,7 +2,7 @@
 
 namespace CommandManager
 {
-    internal class StringCommandArgument : TypedCommandArgument<string>
+    public class StringCommandArgument : TypedCommandArgument<string>
     {
         Regex satisfyingRegex;
 

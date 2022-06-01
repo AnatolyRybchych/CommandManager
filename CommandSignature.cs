@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class CommandSignature
+    public class CommandSignature
     {
         public string CommandName { get; protected set; }
         public List<CommandArgument> Args { get; protected set; }

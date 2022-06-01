@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class IEnumerableAtCommand : CommandWithTypeOrDerivative<IEnumerable<object>>
+    public class IEnumerableAtCommand : CommandWithTypeOrDerivative<IEnumerable<object>>
     {
         private IntCommandArgument intArgument;
         public IEnumerableAtCommand(string commandName) : base(commandName)

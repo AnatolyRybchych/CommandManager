@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class CommandCommandsResponse
+    public class CommandCommandsResponse
     {
         public CommandManager Mgr { get; private set; }
         public Type Type;

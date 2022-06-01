@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class RootCommandToken {
+    public class RootCommandToken {
         public string[] Args { get; private set; }
         public object InitialData { get; private set; }
         public RootCommandToken(string[] args, object initialData)
@@ -11,7 +11,7 @@ namespace CommandManager
         }
     }
 
-    internal class RootCommand : CommandWithType<RootCommandToken>
+    public class RootCommand : CommandWithType<RootCommandToken>
     {
 
         public RootCommand(string commandName) :base(commandName)

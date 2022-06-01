@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class FlagArgument : TypedCommandArgument<bool>
+    public class FlagArgument : TypedCommandArgument<bool>
     {
         public string FlagName { get; private set; }
 

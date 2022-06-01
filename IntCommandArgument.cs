@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class IntCommandArgument : TypedCommandArgument<int>
+    public class IntCommandArgument : TypedCommandArgument<int>
     {
         public int MaxValue { get; private set; }
         public int MinValue { get; private set; }

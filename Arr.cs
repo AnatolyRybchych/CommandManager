@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal static class Arr
+    public static class Arr
     {
 
         public static T[] SubArray<T>(this T[] array, int index, int count = int.MaxValue)

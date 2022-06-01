@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class IEnumerableSaveCommand<T> : CommandWithTypeOrDerivative<IEnumerable<T>>
+    public class IEnumerableSaveCommand<T> : CommandWithTypeOrDerivative<IEnumerable<T>>
     {
         public Action<IEnumerable<T>> SavingAction { get; private set; }
 

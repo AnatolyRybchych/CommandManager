@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class CommandManager
+    public class CommandManager
     {
         public List<Command> Commands { get; private set; }
         public object CurrentData { get; private set; }

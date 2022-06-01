@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class IEnumerableClearCommand : CommandWithTypeOrDerivative<IEnumerable<object>>
+    public class IEnumerableClearCommand : CommandWithTypeOrDerivative<IEnumerable<object>>
     {
         public IEnumerableClearCommand(string commandName) : base(commandName)
         {

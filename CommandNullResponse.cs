@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class CommandNullResponse
+    public class CommandNullResponse
     {
         public override string ToString() => "null";
     }

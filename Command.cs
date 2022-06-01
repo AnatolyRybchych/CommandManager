@@ -2,7 +2,7 @@
 
 namespace CommandManager
 {
-    internal abstract class Command
+    public abstract class Command
     {
         public abstract string Help { get; }
         public CommandSignature Signeture { get; private set; }

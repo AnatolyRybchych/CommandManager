@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class ArgumentProvider
+    public class ArgumentProvider
     {
         public string[] Args { get; private set; }
         private int curr;

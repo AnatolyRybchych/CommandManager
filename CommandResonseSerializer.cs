@@ -3,7 +3,7 @@ using System.Text.Json;
 
 namespace CommandManager
 {
-    internal class CommandResonseSerializer
+    public class CommandResonseSerializer
     {
         public CommandResonseSerializer()
         {

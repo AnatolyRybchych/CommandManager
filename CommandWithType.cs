@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal abstract class CommandWithType<T> : Command
+    public abstract class CommandWithType<T> : Command
     {
 
         public override object Execute(object data, CommandManager mgr) => ExecuteCommand((T)data, mgr);

@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal abstract class CommandArgument
+    public abstract class CommandArgument
     {
         public delegate bool IsSatisfiesDelegate(string arg);
 

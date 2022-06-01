@@ -1,7 +1,7 @@
 ﻿
 namespace CommandManager
 {
-    internal class CommandsCommand : CommandWithTypeOrDerivative<object>
+    public class CommandsCommand : CommandWithTypeOrDerivative<object>
     {
         public CommandsCommand(string commandName) : base(commandName)
         {

@@ -41,7 +41,7 @@ static void Main(string[] args)
 
     commandManager.Commands.Add(new CommandsCommand("commands"));//for all objects returns commands list with arguments and help to current type
     commandManager.Commands.Add(new IEnumerableAtCommand("at"));//for Type:IEnumerable<object> returns element at index  
-    commandManager.Commands.Add(new TestCommand("say"));//for Type:IEnumerable<object> returns element at index  
+    commandManager.Commands.Add(new TestCommand("say"));
     commandManager.Commands.Add(new RootCommand("start"));//root command
 
     commandManager.Execute("start", args);
